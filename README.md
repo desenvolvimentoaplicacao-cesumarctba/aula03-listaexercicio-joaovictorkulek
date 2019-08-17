@@ -1,1 +1,1 @@
-# aula03-listaexercicio-joaovictorkulek
+# aula03-lista-joaovictorkulek
